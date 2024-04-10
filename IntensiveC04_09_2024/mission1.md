@@ -1,5 +1,7 @@
 https://thecloudbootcamp.notion.site/Intensive-Cloud-Training-Mission-1-09e062da05ca4c6f901fc35d6791bf61
 
+mission1-3 link:https://thecloudbootcamp.com/en/event-multicloud-day1-icp2-122/?utm_source=email&utm_medium=email&utm_content=&utm_campaign=icp_2024-04-09&email=david_zhu2@hotmail.com
+
 
 # Intensive Cloud Training - Mission 1
 
